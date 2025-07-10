@@ -1,0 +1,115 @@
+.btn-style{
+    font-size:16px ;
+    font-weight:bold ;
+    background-color:#4E47FF ;
+    color:#FFFFFF ;
+    border-radius: 8px;
+    padding: 12px 36px;
+    border: none;
+}
+.header-bg{
+    background-image: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
+    height: 550px;
+    
+   
+    
+}
+#logo{
+    font-weight: bolder;
+    color: #4E47FF;
+    margin-top: 50px;
+}
+.nav-style{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 150px;
+    align-items: baseline;
+}
+.text{
+    font-size: 65px;
+    font-weight: bold;
+    word-wrap: 2;
+}
+.fo{
+    text-align: center;
+   
+    
+}
+.ma{
+    margin-top: 50px;
+    
+}
+.na{
+    margin-bottom: 150px;
+}
+.di{
+    display: flex;
+    width: 1100px;
+    height: 340px;
+    justify-content: space-between;
+    margin:102px 200px 0px 200px ;
+}
+.img{
+    width: 403px; ;
+    height: 328px;
+    border-radius: 48px;
+}
+.see{
+    font-size:42 ;
+    font-weight: bold;
+}
+.card-text{
+    font-size: 24px;
+    font-weight: 400;
+    
+}
+/* user activity */
+.activity{
+    background-color:rgba(78, 71, 255, 0.26);
+    width:1100px ;
+    height:400px; 
+    margin: 102px 155px;
+    text-align: center;
+    padding: 50px 80px;
+}
+.user{
+    display: flex;
+    justify-content: space-around;
+}
+.join{
+    font-size: 38px;
+    font-weight: bold;
+
+    }
+    .bolt{
+        font-size: 80px;
+        font-weight: bold;
+        color: rgba(78, 71, 255, 1);
+    }
+    .sub-bolt{
+        font-size: 20px;
+        font-weight: 500;
+    }
+    .form{
+        display: flex;
+        justify-content: space-between;
+    }
+    .all{
+        max-width: 1140px;
+        height: 642px;
+        margin: 102px 150px;
+        padding: 75px ;
+    }
+    .let{
+        font-size: 97px;
+        font-weight: bold;
+    }
+    .ki{
+        width: 497px;
+        height: 490px;
+    }
+    .fil{
+        width: 497px;
+        height: 60px;
+    }
+
