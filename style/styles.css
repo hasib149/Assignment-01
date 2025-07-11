@@ -15,8 +15,15 @@
     border-radius: 8px;
     padding: 12px 36px;
     border: none;
-    
+    transition:background-colour ;
 }
+.btn-style:hover{
+    background-color: chartreuse;
+}
+    
+
+
+
 .header-bg{
     background-image: url(../Assets/Hero-bg.png);
     height: 550px;
@@ -24,8 +31,9 @@
    
     
 }
-#logo{
+.logo{
     font-weight: bolder;
+    font-size: 40px;
     color: #4E47FF;
     margin-top: 50px;
 }
@@ -158,4 +166,7 @@
 }
 .fp{
     margin: -80px;
+}
+.kj{
+    margin-top: -70px;
 }
