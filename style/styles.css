@@ -1,3 +1,12 @@
+
+.raleway-font {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+
 .btn-style{
     font-size:16px ;
     font-weight:bold ;
@@ -6,6 +15,7 @@
     border-radius: 8px;
     padding: 12px 36px;
     border: none;
+    
 }
 .header-bg{
     background-image: url(../B12A01-landing-launchpad/Assets/Hero-bg.png);
@@ -113,4 +123,34 @@
         height: 60px;
         border-radius: 8px;
     }
+    .full-bg{
+        background-color: #f5f8ff;
+    }
+    .op{
+        text-align: center;
+        width: 530px;
+        height: 300px;
+        margin: 0  450px;
+       
+    }
+    .disp{
+        display: flex;
+        justify-content: space-around;
+        font-size: 20px;
+    }
+    .lo{
+        font-size: 100px;
+        font-weight: bolder;
+        color: #4E47FF;
+    }
 
+    .er{
+        font-size:20px;
+    }
+
+.no{
+    text-decoration: none;
+}
+.mar{
+    padding: 1px 0px;
+}
